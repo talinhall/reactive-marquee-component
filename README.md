@@ -1,1 +1,1 @@
-This is a platform to test my front end developer abilities. It is a web application, that has a menu and when state changes it changes the pages text and background picture. While making sure to take care of overflow text and create components that are responsive. 
+This is a platform to test my front end developer abilities. It is a reactive marquee component that changes texts and images on the page defending on the state. I also nicely handle overlflow text and responsive components.  
