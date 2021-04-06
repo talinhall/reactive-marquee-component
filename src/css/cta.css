@@ -1,0 +1,35 @@
+.cta-container{
+    width: 73.75rem;
+    margin: 11.563rem 8.125rem 0 8.125rem;
+    background-color: white;
+    display:flex;
+    flex-direction: row;
+    max-width:1440px;
+}
+
+.cta-context{
+  width: 30.188rem;
+  font-family: 'HelveticaNeue';
+  font-size: 1.5rem;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: -0.63px;
+  color: black;
+  padding: 4.625rem 0 4.625rem 4.813rem;
+}
+
+.lets-talk{
+    height: 1.25rem;
+    font-family: 'HelveticaNeue';
+    font-size: 0.688rem;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.82;
+    letter-spacing: 1px;
+    color: black;
+    padding: 5rem 0 4.938rem 0;
+    margin-left:19rem;
+}

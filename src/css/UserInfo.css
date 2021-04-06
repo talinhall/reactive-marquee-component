@@ -1,0 +1,31 @@
+.user-info{
+    display:flex;
+    flex-direction: row;
+    max-width:1440px;
+}
+
+.headline{
+    width: 38.25rem;
+    font-family: 'HelveticaNeue';
+    font-size: 5.25rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: -2.2px;
+    color:white;
+    margin: 10.125rem 0 0 7.938rem;
+}
+
+.subhead{
+    width: 22.5rem;
+    margin:11.563rem 10.625rem 0 10.688rem;
+    font-family: 'HelveticaNeue';
+    font-size: 0.875rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.86;
+    letter-spacing: normal;
+    color: white;
+}
