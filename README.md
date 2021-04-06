@@ -1,1 +1,1 @@
-This is a platform to test my front end developer abilities. It is a web application, that has a menu and when state changes it changes the pages text and background picture. While makeing sure to take care of overflow text and create components that are responsive. 
+This is a platform to test my front end developer abilities. It is a web application, that has a menu and when state changes it changes the pages text and background picture. While making sure to take care of overflow text and create components that are responsive. 
